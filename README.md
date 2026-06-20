@@ -9,8 +9,8 @@
 
 A fully verified **VLSI Digital Clock with Alarm** implemented in **Verilog RTL** — featuring BCD HH:MM:SS timekeeping, 12/24hr mode, alarm with snooze, and a live **React web simulator** deployed on Render.
 
-⏰ **[Live Demo →](https://vlsi-digital-clock-alarm.onrender.com)**
-⭐ **[GitHub →](https://github.com/Neha-Joshi05/VLSI-Digital-Clock-Alarm)**
+⏰ **[Live Demo →]https://vlsi-digital-clock-alarm.onrender.com**
+⭐ **[GitHub →]https://github.com/Neha-Joshi05/VLSI-Digital-Clock-Alarm.git**
 
 ---
 
@@ -199,11 +199,14 @@ npm run dev
 
 
 ## Author
-
+```
 **Neha Joshi** — Computer Engineering, AI & Data Science
 NVIDIA DLI Certified · IIT Delhi Certified
-[GitHub](https://github.com/Neha-Joshi05) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
+[GitHub]:https://github.com/Neha-Joshi05/VLSI-Digital-Clock-Alarm.git
+
+[LinkedIn]:https://www.linkedin.com/in/neha-joshi-0851a2322?utm_source=share_via&utm_content=profile&utm_medium=member_android
+```
 ---
 
 *VLSI Digital Clock with Alarm · Verilog RTL verified · React simulator live · Built end-to-end*
